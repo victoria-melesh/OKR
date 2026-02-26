@@ -45,4 +45,4 @@ function TASK3category(arr)
         return result;
     }, {});
 }
-console.log(sumByCategory(data));
+console.log(TASK3category(data));
